@@ -33,14 +33,6 @@ Você pode verificar os NFTs criados nas seguintes carteiras:
 
 4. Implemente o contrato na rede Polygon e use a função `mint` para criar novos NFTs, enviando-os para a carteira especificada.
 
-## Imagens
-
-### Implantação do Contrato
-![Implantação do Contrato](link-para-imagem-implantacao.png)
-
-### Verificação no OpenSea
-![Verificação no OpenSea](link-para-imagem-opensea.png)
-
 ## Links Úteis
 
 - [MetaMask](https://metamask.io/)
