@@ -24,7 +24,7 @@ Você pode verificar os NFTs criados nas seguintes carteiras:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/mario-evangelista/nft-metamask-polygon.git
    ```
 
 2. Abra o [Remix IDE](https://remix.ethereum.org/), importe o contrato inteligente `MyNFT.sol` e compile-o.
